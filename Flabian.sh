@@ -9,7 +9,7 @@ echo this will install it.
 sudo apt update
 sudo apt install snapd
 sudo snap install core
-# sudo apt install kde-plasma-desktop -y
+sudo apt install kde-plasma-desktop -y
 sudo snap install steam
 sudo apt install flatpak
 sudo apt install gnome-software-plugin-flatpak
